@@ -1,2 +1,2 @@
 # form
-Registration form using HTML and CSS.
+Student Registration form using HTML and CSS.
